@@ -1,4 +1,5 @@
-# Racecar Gym Competition
+# This repo. is created for convenience
+## Racecar Gym Competition
 
 - This is modified from https://github.com/axelbr/racecar_gym for final project competition.
 
